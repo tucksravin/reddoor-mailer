@@ -7,15 +7,9 @@ const app = express();
 app.use(express.json());
 
 app.get('/', (request: Request, response: Response) => {
-    let message = "no number :(";
-    
-
-
 
     try {
-        response.json({ message: message,
-            requestheaders: request.headers,
-            requestbody: request.body||""
+        response.json({ message: "Use post instead",
             
          });
     } catch (error) {
