@@ -1,0 +1,254 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text font-family="helvetica, sans-serif" padding-left="5px" padding-right="5px" />
+    </mj-attributes>
+    <mj-preview>Checked up on ERPfunds.com</mj-preview>
+  </mj-head>
+  <mj-body background-color="#F4F4F4">
+    <mj-section background-color="#F4F4F4">
+      <mj-column>
+        <mj-image href="https://www.erpfunds.com/" src="https://d3eq0h5l8sxf6t.cloudfront.net/maintenance-email/clients/erpfunds.jpg" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="white">
+      <mj-column width="77%">
+        <mj-text color="#C00" font-size="20px" font-weight="700" padding-top="75px">COMPLETED ON</mj-text>
+        <mj-text color="#C00" font-size="54px" font-weight="400">01.12.2025</mj-text>
+        <mj-text color="#C00" font-size="20px" font-weight="700" padding-top="75px">MAINTENANCE CHECKS</mj-text>
+        <mj-text color="#757575" font-family="helvetica, sans-serif" font-size="16px" font-weight="300" line-height="24px">Includes checking the hosting, DNS, Content Management System (CMS, if applicable), search indexing and security of the site for major flaws and updating as necessary.</mj-text>
+      </mj-column>
+    </mj-section>
+
+
+
+
+
+
+
+<mj-section background-color="white" padding="0px">
+
+      <mj-group width="77%">
+        <mj-column padding-left="0px" border-bottom="solid #CCCCCC 1px">
+          <mj-text height="25px" padding-left="0px" color="#757575" padding-top="20px" padding-bottom="0px" font-size="16px">Build Logs Reviewed</mj-text>
+        </mj-column>
+        <mj-column border-bottom="solid #CCCCCC 1px" padding-top="15px">
+          <mj-image align="right" padding-right="0px" width="20px" height="20px" padding-top="00px" padding-bottom="10px" src="https://d3eq0h5l8sxf6t.cloudfront.net/maintenance-email/check.png" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+<mj-section background-color="white" padding="0px">
+
+      <mj-group width="77%">
+        <mj-column padding-left="0px" border-bottom="solid #CCCCCC 1px">
+          <mj-text height="25px" padding-left="0px" color="#757575" padding-top="20px" padding-bottom="0px" font-size="16px">CMS Checked</mj-text>
+        </mj-column>
+        <mj-column border-bottom="solid #CCCCCC 1px" padding-top="15px">
+          <mj-image align="right" padding-right="0px" width="20px" height="20px" padding-top="00px" padding-bottom="10px" src="https://d3eq0h5l8sxf6t.cloudfront.net/maintenance-email/check.png" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+<mj-section background-color="white" padding="0px">
+
+      <mj-group width="77%">
+        <mj-column padding-left="0px" border-bottom="solid #CCCCCC 1px">
+          <mj-text height="25px" padding-left="0px" color="#757575" padding-top="20px" padding-bottom="0px" font-size="16px">DNS Checked</mj-text>
+        </mj-column>
+        <mj-column border-bottom="solid #CCCCCC 1px" padding-top="15px">
+          <mj-image align="right" padding-right="0px" width="20px" height="20px" padding-top="00px" padding-bottom="10px" src="https://d3eq0h5l8sxf6t.cloudfront.net/maintenance-email/check.png" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+<mj-section background-color="white" padding="0px">
+
+      <mj-group width="77%">
+        <mj-column padding-left="0px" border-bottom="solid #CCCCCC 1px">
+          <mj-text height="25px" padding-left="0px" color="#757575" padding-top="20px" padding-bottom="0px" font-size="16px">Google Indexed</mj-text>
+        </mj-column>
+        <mj-column border-bottom="solid #CCCCCC 1px" padding-top="15px">
+          <mj-image align="right" padding-right="0px" width="20px" height="20px" padding-top="00px" padding-bottom="10px" src="https://d3eq0h5l8sxf6t.cloudfront.net/maintenance-email/check.png" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+<mj-section background-color="white" padding="0px">
+
+      <mj-group width="77%">
+        <mj-column padding-left="0px" border-bottom="solid #CCCCCC 1px">
+          <mj-text height="25px" padding-left="0px" color="#757575" padding-top="20px" padding-bottom="0px" font-size="16px">Reviewed Certificate</mj-text>
+        </mj-column>
+        <mj-column border-bottom="solid #CCCCCC 1px" padding-top="15px">
+          <mj-image align="right" padding-right="0px" width="20px" height="20px" padding-top="00px" padding-bottom="10px" src="https://d3eq0h5l8sxf6t.cloudfront.net/maintenance-email/check.png" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+<mj-section background-color="white" padding="0px" padding-bottom="36px">
+
+      <mj-group width="77%">
+        <mj-column padding-left="0px" >
+          <mj-text  padding-left="0px" color="#757575" padding-top="20px" padding-bottom="0px" font-size="16px">Update Deprecated / Compromised Packages</mj-text>
+        </mj-column>
+        <mj-column  padding-top="15px">
+          <mj-image align="right" padding-right="0px" width="20px" height="20px" padding-top="00px" padding-bottom="10px" src="https://d3eq0h5l8sxf6t.cloudfront.net/maintenance-email/check.png" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    
+    <mj-section background-color="#F4F4F4">
+      <mj-column width="77%">
+        <mj-text color="#C00" font-size="20px" font-weight="700" padding-top="55px">Google Lighthouse Scoring*</mj-text>
+        
+        <mj-text color="#C00" font-size="20px" font-weight="300" padding-top="25px">Performance</mj-text>
+        <mj-text color="#C00" font-size="54px" font-weight="400" padding-top="0px">90</mj-text>
+         <mj-text color="#757575" font-family="helvetica, sans-serif" font-size="12px" font-weight="300" padding-top="0px" padding-bottom="36px">Acceptable 50–89 // Ideal 90–100</mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="#CCCCCC" padding="0" />
+
+        
+        <mj-text color="#C00" font-size="20px" font-weight="300" padding-top="25px">Readability</mj-text>
+        <mj-text color="#C00" font-size="54px" font-weight="400" padding-top="0px">90</mj-text>
+         <mj-text color="#757575" font-family="helvetica, sans-serif" font-size="12px" font-weight="300" padding-top="0px" padding-bottom="36px">Acceptable 80–99 // Ideal 100</mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="#CCCCCC" padding="0" />
+   
+        
+        <mj-text color="#C00" font-size="20px" font-weight="300" padding-top="25px">Performance</mj-text>
+        <mj-text color="#C00" font-size="54px" font-weight="400" padding-top="0px">90</mj-text>
+         <mj-text color="#757575" font-family="helvetica, sans-serif" font-size="12px" font-weight="300" padding-top="0px" padding-bottom="36px">Acceptable 60–79 // Ideal 80–92</mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="#CCCCCC" padding="0" />
+
+        
+        <mj-text color="#C00" font-size="20px" font-weight="300" padding-top="25px">Site Structure</mj-text>
+        <mj-text color="#C00" font-size="54px" font-weight="400" padding-top="0px">90</mj-text>
+         <mj-text color="#757575" font-family="helvetica, sans-serif" font-size="12px" font-weight="300" padding-top="0px" padding-bottom="36px">Acceptable 50–89 // Ideal 90–100</mj-text>
+        
+        <mj-text color="#757575" font-family="helvetica, sans-serif" font-size="12px" font-weight="300" padding-top="24px" padding-bottom="36px" line-height="20px">*A Lighthouse score is a numerical measure provided by Google's Lighthouse tool, which evaluates various aspects of a web page's quality. </mj-text>
+        
+        
+      </mj-column>
+    </mj-section>
+        <mj-section background-color="white">
+      <mj-column width="77%">
+        <mj-text color="#C00" font-size="20px" font-weight="700" padding-top="75px">Analytics</mj-text>
+        <mj-text color="#C00" font-size="54px" font-weight="400">2,341 Users</mj-text>
+        <mj-text color="#757575" font-family="helvetica, sans-serif" font-size="16px" font-weight="300" line-height="24px">Last Month: 2,112 </mj-text>
+        <mj-text color="#757575" font-family="helvetica, sans-serif" font-size="12px" font-weight="300" padding-top="24px" padding-bottom="36px" line-height="20px">Contact us if you are interested in more in-depth data or have questions about SEO. </mj-text>
+      </mj-column>
+    </mj-section>
+        <mj-section background-color="#F4F4F4">
+      <mj-column>
+        <mj-image href="mailto:info@reddoorla.com" src="https://d3eq0h5l8sxf6t.cloudfront.net/maintenance-email/blurredTests.jpg" />
+        <mj-text color="#757575" font-family="helvetica, sans-serif" font-size="16px" font-weight="300" line-height="24px">Last Tested: 10.12.24 </mj-text>mj-text>
+      </mj-column>
+    </mj-section>
+    
+        <mj-section background-color="#F4F4F4">
+      <mj-column width="77%">
+
+        <mj-text color="#C00" font-size="20px" font-weight="700" padding-top="75px">TESTING</mj-text>
+        <mj-text color="#757575" font-family="helvetica, sans-serif" font-size="16px" font-weight="300" line-height="24px">Testing includes checks similar to those at launch: testing on common browsers and operating systems, at different screen sizes, and checking every function, and updating all packages for performance rather than just those needed for security.</mj-text>
+      </mj-column>
+    </mj-section>
+
+
+
+
+
+
+
+<mj-section background-color="#F4F4F4" padding="0px">
+
+      <mj-group width="77%">
+        <mj-column padding-left="0px" border-bottom="solid #CCCCCC 1px">
+          <mj-text height="25px" padding-left="0px" color="#757575" padding-top="20px" padding-bottom="0px" font-size="16px">Desktop Browsers</mj-text>
+        </mj-column>
+        <mj-column border-bottom="solid #CCCCCC 1px" padding-top="15px">
+          <mj-image align="right" padding-right="0px" width="20px" height="20px" padding-top="00px" padding-bottom="10px" src="https://d3eq0h5l8sxf6t.cloudfront.net/maintenance-email/check.png" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+<mj-section background-color="#F4F4F4" padding="0px">
+
+      <mj-group width="77%">
+        <mj-column padding-left="0px" border-bottom="solid #CCCCCC 1px">
+          <mj-text height="25px" padding-left="0px" color="#757575" padding-top="20px" padding-bottom="0px" font-size="16px">Mobile Browsers</mj-text>
+        </mj-column>
+        <mj-column border-bottom="solid #CCCCCC 1px" padding-top="15px">
+          <mj-image align="right" padding-right="0px" width="20px" height="20px" padding-top="00px" padding-bottom="10px" src="https://d3eq0h5l8sxf6t.cloudfront.net/maintenance-email/check.png" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+<mj-section background-color="#F4F4F4" padding="0px">
+
+      <mj-group width="77%">
+        <mj-column padding-left="0px" border-bottom="solid #CCCCCC 1px">
+          <mj-text height="25px" padding-left="0px" color="#757575" padding-top="20px" padding-bottom="0px" font-size="16px">Package Updates</mj-text>
+        </mj-column>
+        <mj-column border-bottom="solid #CCCCCC 1px" padding-top="15px">
+          <mj-image align="right" padding-right="0px" width="20px" height="20px" padding-top="00px" padding-bottom="10px" src="https://d3eq0h5l8sxf6t.cloudfront.net/maintenance-email/check.png" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+  <mj-section background-color="#F4F4F4" padding="0px">
+
+      <mj-group width="77%">
+        <mj-column padding-left="0px" border-bottom="solid #CCCCCC 1px">
+          <mj-text height="25px" padding-left="0px" color="#757575" padding-top="20px" padding-bottom="0px" font-size="16px">Bottlenecks</mj-text>
+        </mj-column>
+        <mj-column border-bottom="solid #CCCCCC 1px" padding-top="15px">
+          <mj-image align="right" padding-right="0px" width="20px" height="20px" padding-top="00px" padding-bottom="10px" src="https://d3eq0h5l8sxf6t.cloudfront.net/maintenance-email/check.png" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section background-color="#F4F4F4" padding="0px">
+
+      <mj-group width="77%">
+        <mj-column padding-left="0px" border-bottom="solid #CCCCCC 1px">
+          <mj-text height="25px" padding-left="0px" color="#757575" padding-top="20px" padding-bottom="0px" font-size="16px">Form Functionality</mj-text>
+        </mj-column>
+        <mj-column border-bottom="solid #CCCCCC 1px" padding-top="15px">
+          <mj-image align="right" padding-right="0px" width="20px" height="20px" padding-top="00px" padding-bottom="10px" src="https://d3eq0h5l8sxf6t.cloudfront.net/maintenance-email/check.png" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section background-color="#F4F4F4" padding="0px" padding-bottom="60px">
+
+      <mj-group width="77%">
+        <mj-column padding-left="0px" width="80%">
+          <mj-text height="30px" padding-left="0px" color="#757575" padding-top="20px" padding-bottom="0px" font-size="16px" line-height="20px">Animation Functionality</mj-text>
+        </mj-column>
+        <mj-column width="20%" padding-top="5px">
+          <mj-image align="right" padding-right="0px" width="20px" height="20px" src="https://d3eq0h5l8sxf6t.cloudfront.net/maintenance-email/check.png" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section background-color="white">
+      <mj-column padding-top="36px" width="77%">
+        
+                <mj-text color="#C00" font-family="helvetica, sans-serif" font-size="24px" font-weight="700" padding-top="36px" line-height="36px">Any questions, concerns or requests? </mj-text>
+                <mj-text font-family="helvetica, sans-serif" font-size="24px" font-weight="300"   line-height="30px">Just hit reply.</mj-text>
+        <mj-text font-family="helvetica, sans-serif" font-size="24px" font-weight="300" padding-top="0px"  line-height="30px" padding-bottom="36px">We're here to help in any way we can.</mj-text>
+        
+        <mj-divider border-width="1px" border-style="solid" border-color="#CCCCCC" padding="0" />
+           <mj-text color="#757575" font-family="helvetica, sans-serif" font-size="12px" font-weight="300" padding-top="24px" line-height="20px" font-style="italic">Copyright 2024 Reddoor Creative, LLC. All rights reserved.</mj-text>
+        <mj-text color="#757575" font-family="helvetica, sans-serif" font-size="12px" font-weight="700"  line-height="16px" padding-top="0" padding-bottom="0px">Our mailing address is:</mj-text>
+        <mj-text color="#757575" font-family="helvetica, sans-serif" font-size="12px" font-weight="300"  line-height="16px" padding-top="0" padding-bottom="0px">Reddoor Creative, LLC</mj-text>
+        <mj-text color="#757575" font-family="helvetica, sans-serif" font-size="12px" font-weight="300"  line-height="16px" padding-top="0" padding-bottom="0px">208 E. Franklin Ave.</mj-text>
+        <mj-text color="#757575" font-family="helvetica, sans-serif" font-size="12px" font-weight="300"  line-height="16px" padding-top="0" padding-bottom="0px">El Segundo, CA 90245</mj-text>
+        
+        
+
+     
+      
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
